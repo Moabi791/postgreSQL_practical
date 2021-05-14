@@ -1,0 +1,600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"day_of_the_week"
+			],
+			[
+				"A",
+				"Anne"
+			],
+			[
+				"f",
+				"friends"
+			],
+			[
+				"s",
+				"square_metres"
+			],
+			[
+				"square_",
+				"square_feet"
+			],
+			[
+				"sq",
+				"square_metres"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"sp",
+				"spaceship"
+			],
+			[
+				"cr",
+				"crosshair"
+			],
+			[
+				"c",
+				"cloud2"
+			],
+			[
+				"laser",
+				"laser_active"
+			],
+			[
+				"laser_",
+				"laser_timer"
+			],
+			[
+				"get_",
+				"get_ticks"
+			],
+			[
+				"dis",
+				"discharge"
+			],
+			[
+				"las",
+				"laser_active"
+			],
+			[
+				"la",
+				"laser"
+			],
+			[
+				"l",
+				"laser_timer"
+			],
+			[
+				"space",
+				"spaceship_group"
+			],
+			[
+				"text",
+				"text_rect"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"text_",
+				"text_surface"
+			],
+			[
+				"game",
+				"game_font"
+			],
+			[
+				"spr",
+				"sprite"
+			],
+			[
+				"spac",
+				"spaceship_group"
+			],
+			[
+				"get",
+				"get_damage"
+			],
+			[
+				"spa",
+				"spaceship_group"
+			],
+			[
+				"LASER",
+				"laser_group"
+			],
+			[
+				"cent",
+				"centerx"
+			],
+			[
+				"me",
+				"meteor_group"
+			],
+			[
+				"random",
+				"random_y_speed"
+			],
+			[
+				"r",
+				"random_y_speed"
+			],
+			[
+				"ran",
+				"random_y_pos"
+			],
+			[
+				"y_",
+				"y_speed"
+			],
+			[
+				"x_",
+				"x_speed"
+			],
+			[
+				"sc",
+				"Scapeship"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"cross",
+				"crosshair_rect"
+			],
+			[
+				"duck_",
+				"duck_rect"
+			],
+			[
+				"d",
+				"duck_position_y"
+			],
+			[
+				"land_",
+				"land_speed"
+			],
+			[
+				"lan",
+				"land_position_y"
+			],
+			[
+				"water_",
+				"water_position_y"
+			],
+			[
+				"wa",
+				"water_position_y"
+			],
+			[
+				"water",
+				"water_bg"
+			],
+			[
+				"land",
+				"land_bg"
+			],
+			[
+				"clo",
+				"cloud1"
+			],
+			[
+				"E",
+				"Emma"
+			],
+			[
+				"ou",
+				"our_tuple"
+			],
+			[
+				"ch",
+				"choice"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fiml",
+				"films"
+			],
+			[
+				"daa",
+				"data_ts"
+			],
+			[
+				"out",
+				"output_format"
+			],
+			[
+				"b",
+				"bird_rect"
+			],
+			[
+				"level_",
+				"level_str"
+			],
+			[
+				"bu",
+				"bulletstate"
+			],
+			[
+				"se",
+				"setposition"
+			],
+			[
+				"t",
+				"turtle"
+			],
+			[
+				"ene",
+				"enemy"
+			],
+			[
+				"enem",
+				"enemyspeed"
+			],
+			[
+				"m",
+				"move_left"
+			],
+			[
+				"pla",
+				"playerspeed"
+			],
+			[
+				"bo",
+				"border_pen"
+			],
+			[
+				"M",
+				"Moabi"
+			],
+			[
+				"thi",
+				"thinking"
+			],
+			[
+				"K",
+				"Katlego"
+			],
+			[
+				"N",
+				"Ntobeko"
+			],
+			[
+				"R",
+				"Ronaldo"
+			],
+			[
+				"De",
+				"De-Bryne"
+			],
+			[
+				"Br",
+				"Bruno"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fa",
+				"favorite_language"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"T",
+				"Toyota"
+			],
+			[
+				"magicia",
+				"magicians"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/08_if_statements/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/05_lists_tuples_sets/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/07_booleans/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/06_advanced_set_operations/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/04_first_python_app/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/01_variables/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/03_Getting_user_input/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/02_String_formatting/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/PostgreSQL Bootcamp/code.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/PyGame 2/spaceship.jpg",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/PyGame 2/Meteor Sprite",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/While loop/While_loop.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Project 05/ cinema simulater.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Shooting Range/Image/istockphoto-484850802-612x612 - Copy.jpg",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Dictionary/dictionary.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Tuples.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/getting&plottytuturials/getting&plotting_tutorails.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Data Visualization/death_valley_highs_lows.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Python Excesises/add_items_to_lists.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Python Excesises/Flappy_Bird.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/add_items_to_list.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Python Excesises/travis2(copy).py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Data Visualization/eq_explore_data.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Data Visualization/python_repos.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Data Visualization/readable_eq_data.json",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Data Visualization/scatter_squares.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Data Visualization/sitka_highs.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Data Visualization/hn_article.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Project 05/cinema.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Python Excesises/meeting_idle.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Project 04/travis.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Python Excesises/NEWS.txt",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/chapt06/favourite language.py",
+		"/C/Users/moabi/OneDrive/Desktop/Python Crash Course/Python Excesises/Practising_Slices(Project3).py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Trade_using_avarges/trade_simple_using_Avergas.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/data/write_message.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/remember_me2.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/remember_me.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/division_calculater.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/alice.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt09/battery.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt08/user_profile.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt07/TryItYourself_page156.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt07/TryItYourself_Page185.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt08/pi_million_digits.txt",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt08/pets.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt08/person.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt08/formatted_name.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt08/Modules/making_pizzas.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt07/confirmed_users.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt07/counting.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt05/TryItYourself_Page146.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt06/favorite_languages_2.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt06/pizza.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt06/favourite language.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt05/TryItYourself_Page139.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Snake_game/Snake.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/getting&plottytuturials/getting&plotting_tutorails.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/hn_submissions.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/mpl_squares.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/readable_eq_data.json",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/sitka_highs.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/hn_article.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/die_visual.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/rw_visual.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/d6_d6.html",
+		"/C/Users/moabi/Desktop/Python Crash Course/Project 02/hello_you.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/python_repos.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/readable_hn_data.json",
+		"/C/Users/moabi/Desktop/Python Crash Course/Project 01/bible_health.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/python_repos_visual.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/eq_world_map.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/eq_explore_data.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/show_color_scales.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/death_valley_highs_lows.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Flappy Bird/Flappy.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/sitka_highs_lows.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/bullet.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/die.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/dice_visual.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/random_walk.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/scatter_squares.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/alien_invasion.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Data Visualization/scatter_square.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/alien.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/button.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/game_stats.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/scoreboard.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/settings.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/ship.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/greeter.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/gamestats.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/Alien invasion.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/__pycache__/game_stats.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/Button.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/Alien invasion2.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/Images.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/Alien Invasion/backgroundcolor.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/number_reader.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/TryItYourself_Page265.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt7/cities.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/word_count.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/number_writer.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/example",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/pi_string.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/Expeceptions/division calculater",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/data/pi_digits.txt",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/file_reader.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/data/programming.txt",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/data/file_reader.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt7/TryItYourself_Page178.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt9/car.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt9/electric_car.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt9/my_car.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt9/battery.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt7/mountain_poll.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt10/pi_digits.txt",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt9/dog.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt7/TryItYourself_Page185.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt5/TryItYourself_Page144.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt6/pizza.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt5/TryItYourself_Page146.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt5/TryItYourself_Page139.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt7/TTM",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt6/favourite language.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt8/TryItYourself_Page206.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt8/Modules/pizza.py",
+		"/C/Users/moabi/Desktop/Python Crash Course/chapt7/TryItYourself_page156.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "code.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Alien Invasion\\ship.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
